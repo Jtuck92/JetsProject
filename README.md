@@ -2,7 +2,7 @@
 ### Overview
 This program was written as a Week-3 homework assignment for Skill Distillery. Its function is to simulate a theoretical spaceport
 filled with ships from the Star Wars universe. Each ship is catagorized by a type, a name, its speed, range, and how much it would (presumably) cost.
-The program then assigns the user the role of Fleet Commander, and prompts them to issue commands to affect the vessels under thier command.
+The program then assigns the user the role of Fleet Commander, and prompts them to issue orders to affect the vessels under thier command.
 
 ### Topics
 * Object-Oriented Programming
