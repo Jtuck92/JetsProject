@@ -26,5 +26,5 @@ The program then assigns the user the role of Fleet Commander, and prompts them 
 ### Lessons Learned
 This was an enormous project, dwarfing the assignments of previous weeks. The ordered minimum viable product took nearly 
 10 hours to fully implement and test. The biggest lessons taken from this excercise were how to organize a program that consists 
-of several different funtions and processes, as well as how to manage the time and energy of the programmer effectivley. 
+of several different functions and processes, as well as how to manage the time and energy of the programmer effectivley. 
 
