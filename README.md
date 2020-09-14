@@ -18,7 +18,7 @@ The program then assigns the user the role of Fleet Commander, and prompts them 
 * Swtiches
 
 ### How To Run
-1. The user is immediately presented the menu wich contains the orders they are authorized to issue to the spaceport. 
+1. The user is immediately presented the menu which contains the orders they are authorized to issue to the spaceport. 
 2. The user is provided with a default roster of ships that will behave as the menu commands direct.
 3. The user may add custom vessels or delete any created or existing craft.
 4. Resigning from thier command exits the program.
